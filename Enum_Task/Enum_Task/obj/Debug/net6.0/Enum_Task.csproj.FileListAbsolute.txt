@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\bin\Debug\net6.0\Enum_Task.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\bin\Debug\net6.0\Enum_Task.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\bin\Debug\net6.0\Enum_Task.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\bin\Debug\net6.0\Enum_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\bin\Debug\net6.0\Enum_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\refint\Enum_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\Enum_Task.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Enums\Enum_Task\Enum_Task\obj\Debug\net6.0\ref\Enum_Task.dll
